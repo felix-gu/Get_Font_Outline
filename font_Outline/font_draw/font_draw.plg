@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: font_draw - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\felix\AppData\Local\Temp\RSPD075.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/font_draw.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\ALL_CODE\graduate\module_designer\font_draw\font_draw\font_drawDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\felix\AppData\Local\Temp\RSPD075.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/font_draw.pdb" /debug /machine:I386 /out:"Debug/font_draw.exe" /pdbtype:sept  .\Debug\font_draw.obj .\Debug\font_drawDlg.obj .\Debug\StdAfx.obj .\Debug\font_draw.res "
+<h3>Output Window</h3>
+Compiling...
+font_drawDlg.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+font_draw.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
